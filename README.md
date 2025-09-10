@@ -95,7 +95,7 @@ Aplikasi dapat diakses melalui http://127.0.0.1:8000.
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/2ffc62bf-d366-4c15-b570-0975e098200f" />
 
 ### Form Tambah Arsip
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/909c121a-304e-4bea-992b-3f69bf797b3f" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/304f208d-48b2-4fe6-b6bf-8cdce945e16a" />
 
 ### Konfirmasi Hapus
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/34ecc33e-88ad-43c9-b6dd-d390c150d8df" />
